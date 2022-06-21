@@ -1,0 +1,8 @@
+getgenv().PredictMovement = true
+getgenv().AimPart = "Head"
+getgenv().Key = "Q"
+getgenv().DisableKey = "Q"
+
+getgenv().FOV = true
+getgenv().ShowFOV = false
+getgenv().FOVSize = 55
